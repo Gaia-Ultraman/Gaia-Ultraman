@@ -1,1 +1,1 @@
-![](https://github-readme-stats.vercel.app/api?username=Gaia-Ultraman&theme=tokyonight)
+![image](https://gaia-ultraman.github.io/Gaia-Ultraman/unnamed.jpg)
